@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"  alt="move.it" width="500px">
 <img src="./logo.svg" />
 </p>
 
