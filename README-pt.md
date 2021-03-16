@@ -1,3 +1,5 @@
+
+
 Este é um projeto [Next.js](https://nextjs.org/) criado com  [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 demo: [Move.It](https://move-it-git-shortly-daniel-bichof.vercel.app)
@@ -14,8 +16,10 @@ $ git clone https://github.com/Daniel-Bichof/Move.It.git
 $ yarn install
  ```
 ### Se você não tem o yarn instalado, instale executando:
+
 ```bash
 $ npm install --global yarn
+
 # Check installation
 $ yarn -v
 ```
