@@ -1,6 +1,18 @@
+<p align="center">
+<img src="./logo.svg" />
+</p>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 demo: [Move.It](https://move-it-git-shortly-daniel-bichof.vercel.app)
+
+<p align="center">
+    <a href="README-pt.md">Portuguese</a> 
+    -
+    <a href="README.md">English</a> 
+</p>
+
+
 # How to run
 
 ## Clone this repo
